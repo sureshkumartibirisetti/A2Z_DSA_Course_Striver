@@ -1,0 +1,19 @@
+package Step_1_Learn_the_basics.Lec_2_Build_up_Logical_thinking;
+/*
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ */
+public class p_1 {
+    public static void main(String[] args) {
+        int a=5;
+        for(int i=0;i<a;i++){
+            for(int j=0;j<a;j++){
+                System.out.print("*"+" ");
+            }
+            System.out.println();
+        }
+    }
+}
